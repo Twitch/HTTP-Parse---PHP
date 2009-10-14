@@ -1,0 +1,7 @@
+/*********************************\
+            HTTP Parse
+   A minimal HTTP parsing tool.
+        Written by Twitch
+\*********************************/
+
+This was originally designed as part of a Web Application Mapping framework project that I joined. The project, as so many do, withered and died. I may well port this to a more broadly used language or build upon it at a later date, though.
